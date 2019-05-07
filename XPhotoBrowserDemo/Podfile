@@ -1,0 +1,5 @@
+target 'XPhotoBrowserDemo' do
+
+pod 'Kingfisher'
+
+end
